@@ -1,8 +1,8 @@
 import argparse
 
-class CLIArguments:
+class CLIArguments():
     def __init__(self):
-        parser = argparse.ArgumentParser(description="Bulk msg sender")
+        parser = argparse.ArgumentParser(description="Bulk msg sender with files")
         
         # recipients related
         parser.add_argument(
@@ -15,7 +15,6 @@ class CLIArguments:
                   "\nRequired: True"
         )
 
-        
         # msg related
         parser.add_argument(
             "-m" ,'--msg',
@@ -23,6 +22,7 @@ class CLIArguments:
         )
         parser.add_argument(
             "-mmode" ,'--msg_mode',
+            choices=("both, cli, file, no"),
             help='Msg send to targeted recipients.'
         )
 
@@ -32,52 +32,62 @@ class CLIArguments:
             help='''File/s to import.\
                 That will send to all targeted recipients'''
         )
+        
         parser.add_argument(
             '-amode','--attach_mode',
-            # default="both",
+            choices=("both, cli, file, no"),
             help='''File/s to import.\
                 That will send to all targeted recipients'''
         )
         self.args = parser.parse_args()
 
 
-    # def recipient_arg(self):    
-    #     # Sender handling
-    #     if self.args.file != None:
-    #         return self.args.file
-    #     elif self.args.name != None:
-    #         return self.args.name
-    #     elif self.args.number != None:
-    #         return self.args.number
+    def recipient_arg(self):    
+        # -r "hamza,Linear aljebra,923370392561,923342843869,file.csv,o.xlsx" -> 
+        # [[923370392561, 923342843869], ['file.csv', 'o.xlsx'], ['hamza', 'Linear aljebra']]
+        
+        # Sender handling
+        numberList = []
+        fileList = []
+        namesList = []
+        for recipient in self.args.recipients.split(","):
+            try:
+                numberList.append(int(recipient)) 
+            except ValueError:
+                if recipient[-5:] == ".xlsx" or (recipient[-4:] == ".csv"):
+                    fileList.append(recipient)
+                else:
+                    namesList.append(recipient)
+        return [numberList, namesList, fileList]
 
-    # def msg_arg_with_mode(self):
-    #     if self.args.msg != None:
-    #         if self.args.msg_mode == "both":
-    #             return self.args.msg, "both"
-    #         elif self.args.msg_mode == "cli":
-    #             return self.args.msg, "cli"
-    #         elif (self.args.msg_mode == "file") and (self.args.file != None):
-    #             return self.args.msg, "file"        
-    #     # elif self.args.msg == 
-    #     return None, None
+    def msg_arg(self):
+        if self.args.msg != None:
+            return self.args.msg 
+        return None
 
-    # def attach_file_arg_with_mode(self):
-    #     if self.args.attach_files != None:
-    #         if self.args.attach_mode == "both":
-    #             return self.args.attach_files.split(","), 'both'
-    #         elif self.args.attach_mode == "cli":
-    #             return self.args.attach_files.split(","), 'cli'
-    #         elif self.args.attach_mode == "file":
-    #             return self.args.attach_files.split(","), 'file'
-    #     return None, None
+    def attach_file_arg(self):
+        if self.args.attach_files != None:  
+            return self.args.attach_files.split(",")
+        return None
+
+    def modes(self):
+        if (self.args.msg_mode != None) and (self.args.attach_mode != None):
+            return [self.args.msg_mode, self.args.attach_mode]
+        elif (self.args.msg_mode != None) and (self.args.attach_mode == None):
+            return [self.args.msg_mode, None]
+        elif (self.args.msg_mode == None) and (self.args.attach_mode != None):
+            return [None, self.args.attach_mode]
+        return [None, None]
 
 if __name__ == "__main__":
     cli_args =  CLIArguments()  
 
-    # recipients = cli_args.recipient_arg()
-    # message, mm = cli_args.msg_arg_with_mode()
-    # attachments, am = cli_args.attach_file_arg_with_mode() 
+    modes = cli_args.modes()
+    recipients = cli_args.recipient_arg()
+    message = cli_args.msg_arg()
+    attachments= cli_args.attach_file_arg() 
 
-    # print(f"{recipients} {message}:{mm} {attachments}:{am}")
+    print(f" {modes} {recipients} {message} {attachments}")
 
-# python3 args.py -r hamza -m "Hi" -af 1.png
+# python3 args.py -r "hamza,Linear aljebra,923370392561,923342843869,file.csv,o.xlsx" -m "Hi" -amode both -af 1.png,2.png -mmode both
+# ['both', 'both'] [[923370392561, 923342843869], ['hamza', 'Linear aljebra'], ['file.csv', 'o.xlsx']] Hi ['1.png', '2.png']
