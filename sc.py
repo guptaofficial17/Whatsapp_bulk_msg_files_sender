@@ -154,8 +154,8 @@ if __name__ == "__main__":
     attachments= cli_args.attach_file_arg() 
 
     print(f"{recipients} {message} {attachments}")
-    # w = WhatsAppBot(recipients, message, attachments)
-    # w.run()
+    w = WhatsAppBot(recipients, message, attachments)
+    w.run()
 
 # python3 script.py -r "hamza,Linear aljebra,923370392561,923342843869,file.csv,o.xlsx" -m "Hi, This is me" -af 1.png,2.png
 # [[923370392561, 923342843869], ['hamza', 'Linear aljebra'], ['file.csv', 'o.xlsx']] Hi, This is me ['1.png', '2.png']
