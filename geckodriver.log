@@ -1,0 +1,1419 @@
+1604281903456	geckodriver	INFO	Listening on 127.0.0.1:37855
+1604281903464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOx3AyV"
+1604281907122	Marionette	INFO	Listening on port 34681
+1604281907182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604282033843	geckodriver	INFO	Listening on 127.0.0.1:42769
+1604282033851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zRrZG"
+1604282037561	Marionette	INFO	Listening on port 37105
+1604282037575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604282122339	geckodriver	INFO	Listening on 127.0.0.1:47205
+1604282122347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGXLME"
+1604282126005	Marionette	INFO	Listening on port 44295
+1604282126060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604282253673	geckodriver	INFO	Listening on 127.0.0.1:50909
+1604282253682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenCHRf6"
+1604282257419	Marionette	INFO	Listening on port 35953
+1604282257494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+1604282516208	Marionette	INFO	Stopped listening on port 44295
+1604282517251	Marionette	INFO	Stopped listening on port 35953
+1604282518085	Marionette	INFO	Stopped listening on port 37105
+1604282518707	Marionette	INFO	Stopped listening on port 34681
+1604344663795	geckodriver	INFO	Listening on 127.0.0.1:39679
+1604344664789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewQEK2a"
+1604344671455	Marionette	INFO	Listening on port 44641
+1604344671512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604344774643	geckodriver	INFO	Listening on 127.0.0.1:57087
+1604344774651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJHoygg"
+1604344777853	Marionette	INFO	Listening on port 42873
+1604344777872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604344859211	Marionette	INFO	Stopped listening on port 42873
+1604344861095	Marionette	INFO	Stopped listening on port 44641
+1604345123412	geckodriver	INFO	Listening on 127.0.0.1:48651
+1604345123420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej3aQoO"
+1604345126786	Marionette	INFO	Listening on port 33953
+1604345126830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604345199557	geckodriver	INFO	Listening on 127.0.0.1:36269
+1604345199567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3yLbje"
+1604345202986	Marionette	INFO	Listening on port 43635
+1604345203078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604345300299	geckodriver	INFO	Listening on 127.0.0.1:55103
+1604345300306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOfZ9Zt"
+1604345303565	Marionette	INFO	Listening on port 41355
+1604345303617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604345369764	geckodriver	INFO	Listening on 127.0.0.1:56047
+1604345369774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCXBNYP"
+1604345373521	Marionette	INFO	Listening on port 41569
+1604345373590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604345430735	geckodriver	INFO	Listening on 127.0.0.1:35491
+1604345430743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletDE136"
+1604345434198	Marionette	INFO	Listening on port 35155
+1604345434254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604345577182	geckodriver	INFO	Listening on 127.0.0.1:44083
+1604345577189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef8hUxL"
+1604345580755	Marionette	INFO	Listening on port 38279
+1604345580803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604345751922	geckodriver	INFO	Listening on 127.0.0.1:53507
+1604345751932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJOhWGB"
+1604345755535	Marionette	INFO	Listening on port 38059
+1604345755545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604345843452	Marionette	INFO	Stopped listening on port 38059
+1604345846546	Marionette	INFO	Stopped listening on port 38279
+1604345847031	Marionette	INFO	Stopped listening on port 35155
+1604345847701	Marionette	INFO	Stopped listening on port 41569
+1604345848145	Marionette	INFO	Stopped listening on port 41355
+1604345848427	Marionette	INFO	Stopped listening on port 43635
+1604345848775	Marionette	INFO	Stopped listening on port 33953
+1604345880512	geckodriver	INFO	Listening on 127.0.0.1:40855
+1604345880519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOBTYRD"
+1604345884038	Marionette	INFO	Listening on port 45905
+1604345884134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604346007471	geckodriver	INFO	Listening on 127.0.0.1:54945
+1604346007478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9JK81p"
+1604346010979	Marionette	INFO	Listening on port 41693
+1604346010996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604346102405	geckodriver	INFO	Listening on 127.0.0.1:40071
+1604346102414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexKMD2S"
+1604346105892	Marionette	INFO	Listening on port 36605
+1604346105937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604346237779	geckodriver	INFO	Listening on 127.0.0.1:44471
+1604346237786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2nvZAo"
+1604346241421	Marionette	INFO	Listening on port 43717
+1604346241499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1604346247659	Marionette	INFO	Stopped listening on port 36605
+1604346254851	Marionette	INFO	Stopped listening on port 41693
+1604346257698	Marionette	INFO	Stopped listening on port 45905
+1604346274481	geckodriver	INFO	Listening on 127.0.0.1:34597
+1604346274490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecAH6Uy"
+1604346277916	Marionette	INFO	Listening on port 41605
+1604346278010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604346317667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604346374060	Marionette	INFO	Stopped listening on port 41605
+1604391530201	geckodriver	INFO	Listening on 127.0.0.1:59361
+1604391531194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXO0MfQ"
+1604391534370	Marionette	INFO	Listening on port 39587
+1604391534406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604391612024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604391903551	geckodriver	INFO	Listening on 127.0.0.1:48225
+1604391903560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKRoqjc"
+1604391907000	Marionette	INFO	Listening on port 33971
+1604391907088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604391999396	geckodriver	INFO	Listening on 127.0.0.1:58933
+1604391999404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileStSjVs"
+1604392002758	Marionette	INFO	Listening on port 39347
+1604392002815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604392014918	Marionette	INFO	Stopped listening on port 39587
+1604392020430	Marionette	INFO	Stopped listening on port 39347
+1604392021416	Marionette	INFO	Stopped listening on port 33971
+1604392026433	geckodriver	INFO	Listening on 127.0.0.1:45859
+1604392026441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNVAi8V"
+1604392029599	Marionette	INFO	Listening on port 32941
+1604392029652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604392082573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604392151599	Marionette	INFO	Stopped listening on port 32941
+1604392329603	geckodriver	INFO	Listening on 127.0.0.1:35007
+1604392329610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexHZuGQ"
+1604392332821	Marionette	INFO	Listening on port 45515
+1604392332920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604392419922	geckodriver	INFO	Listening on 127.0.0.1:51105
+1604392419930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9kgTF6"
+1604392423171	Marionette	INFO	Listening on port 32813
+1604392423241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+1604394997363	geckodriver	INFO	Listening on 127.0.0.1:56537
+1604394997370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecWj8Jk"
+1604395000568	Marionette	INFO	Listening on port 41251
+1604395000590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604395049005	geckodriver	INFO	Listening on 127.0.0.1:48291
+1604395049012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3pjFC9"
+1604395052342	Marionette	INFO	Listening on port 36033
+1604395052425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604395128284	geckodriver	INFO	Listening on 127.0.0.1:33839
+1604395128291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEkcnN7"
+1604395131752	Marionette	INFO	Listening on port 41409
+1604395131805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604395139426	Marionette	INFO	Stopped listening on port 41409
+1604395140658	Marionette	INFO	Stopped listening on port 36033
+1604395142223	Marionette	INFO	Stopped listening on port 41251
+1604395143387	Marionette	INFO	Stopped listening on port 32813
+1604395144592	Marionette	INFO	Stopped listening on port 45515
+1604395315212	geckodriver	INFO	Listening on 127.0.0.1:39961
+1604395315218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3H0yG9"
+1604395318741	Marionette	INFO	Listening on port 41415
+1604395318832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604395356894	geckodriver	INFO	Listening on 127.0.0.1:59645
+1604395356902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7awnKV"
+1604395360194	Marionette	INFO	Listening on port 43199
+1604395360219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604395517023	geckodriver	INFO	Listening on 127.0.0.1:43833
+1604395517031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCyZexu"
+1604395520900	Marionette	INFO	Listening on port 36977
+1604395520946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1604396650461	Marionette	INFO	Stopped listening on port 43199
+1604396652983	Marionette	INFO	Stopped listening on port 41415
+1604396674874	geckodriver	INFO	Listening on 127.0.0.1:49017
+1604396674882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFGV8Yb"
+1604396678207	Marionette	INFO	Listening on port 39269
+1604396678293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+[Child 11950, MediaDecoderStateMachine #1] WARNING: Decoder=7ff7b5919400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 11950, MediaDecoderStateMachine #1] WARNING: Decoder=7ff7b5919400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 11950, MediaDecoderStateMachine #1] WARNING: Decoder=7ff7b5915000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 11950, MediaDecoderStateMachine #1] WARNING: Decoder=7ff7b5915000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-nvLbAV/firefox-78.0.2+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604396806990	geckodriver	INFO	Listening on 127.0.0.1:36627
+1604396806999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileREGx5u"
+1604396810210	Marionette	INFO	Listening on port 34431
+1604396810310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.2623a2d914daba2d0eb9.js, line 1: unreachable code after return statement
+1604396914014	Marionette	INFO	Stopped listening on port 34431
+1604396916422	Marionette	INFO	Stopped listening on port 39269
+1604431001307	geckodriver	INFO	Listening on 127.0.0.1:46549
+1604431002278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewRm71L"
+1604431005843	Marionette	INFO	Listening on port 40751
+1604431005899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604431181289	geckodriver	INFO	Listening on 127.0.0.1:45215
+1604431181297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3DoSF"
+1604431185122	Marionette	INFO	Listening on port 45261
+1604431185215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604431195647	Marionette	INFO	Stopped listening on port 45261
+1604431196590	Marionette	INFO	Stopped listening on port 40751
+1604431228182	geckodriver	INFO	Listening on 127.0.0.1:35371
+1604431228189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLcjm60"
+1604431231798	Marionette	INFO	Listening on port 43789
+1604431231815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604431282011	Marionette	INFO	Stopped listening on port 43789
+1604431320778	geckodriver	INFO	Listening on 127.0.0.1:50725
+1604431320786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecfvMmg"
+1604431324341	Marionette	INFO	Listening on port 35765
+1604431324396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604431388841	geckodriver	INFO	Listening on 127.0.0.1:53141
+1604431388851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8EZIvG"
+1604431392377	Marionette	INFO	Listening on port 34501
+1604431392462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604431479676	Marionette	INFO	Stopped listening on port 35765
+1604431481596	Marionette	INFO	Stopped listening on port 34501
+1604434561464	geckodriver	INFO	Listening on 127.0.0.1:45005
+1604434561473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoDhjai"
+1604434565331	Marionette	INFO	Listening on port 43455
+1604434565392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604434673542	Marionette	INFO	Stopped listening on port 43455
+1604434682704	geckodriver	INFO	Listening on 127.0.0.1:41969
+1604434682714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehKZbh6"
+1604434686530	Marionette	INFO	Listening on port 39367
+1604434686626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604434814186	geckodriver	INFO	Listening on 127.0.0.1:41673
+1604434814195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewYf51m"
+1604434818488	Marionette	INFO	Listening on port 39495
+1604434818510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604434926093	geckodriver	INFO	Listening on 127.0.0.1:47395
+1604434926100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwWLbn"
+1604434930968	Marionette	INFO	Listening on port 43711
+1604434931022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604435025498	geckodriver	INFO	Listening on 127.0.0.1:47883
+1604435025506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecqyCcm"
+1604435030446	Marionette	INFO	Listening on port 34351
+1604435030528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604435063738	Marionette	INFO	Stopped listening on port 39367
+1604435064781	Marionette	INFO	Stopped listening on port 39495
+1604435066505	Marionette	INFO	Stopped listening on port 43711
+1604435070464	Marionette	INFO	Stopped listening on port 34351
+1604437188355	geckodriver	INFO	Listening on 127.0.0.1:49107
+1604437188362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenkxPaF"
+1604437192266	Marionette	INFO	Listening on port 39787
+1604437192285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604437402347	Marionette	INFO	Stopped listening on port 39787
+1604437404593	geckodriver	INFO	Listening on 127.0.0.1:58495
+1604437404601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBasMMx"
+1604437408442	Marionette	INFO	Listening on port 45739
+1604437408512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604437446332	geckodriver	INFO	Listening on 127.0.0.1:44393
+1604437446341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyW5FBb"
+1604437450220	Marionette	INFO	Listening on port 45225
+1604437450255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604437455778	Marionette	INFO	Stopped listening on port 45739
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604437578229	Marionette	INFO	Stopped listening on port 45225
+1604437631978	geckodriver	INFO	Listening on 127.0.0.1:35661
+1604437631986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileet9vUm"
+1604437636020	Marionette	INFO	Listening on port 46043
+1604437636102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604437749969	geckodriver	INFO	Listening on 127.0.0.1:50175
+1604437749977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXscwi9"
+1604437754128	Marionette	INFO	Listening on port 43809
+1604437754194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604437791945	Marionette	INFO	Stopped listening on port 46043
+1604437812796	Marionette	INFO	Stopped listening on port 43809
+1604437820528	geckodriver	INFO	Listening on 127.0.0.1:43463
+1604437820535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UOWF1"
+1604437824346	Marionette	INFO	Listening on port 36565
+1604437824454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604437954240	geckodriver	INFO	Listening on 127.0.0.1:44081
+1604437954248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileudrFFT"
+1604437958038	Marionette	INFO	Listening on port 33525
+1604437958060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604437985951	Marionette	INFO	Stopped listening on port 36565
+1604438008143	Marionette	INFO	Stopped listening on port 33525
+1604438040306	geckodriver	INFO	Listening on 127.0.0.1:43729
+1604438040313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTjjg9p"
+1604438044011	Marionette	INFO	Listening on port 37697
+1604438044110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604438202721	Marionette	INFO	Stopped listening on port 37697
+1604438208718	geckodriver	INFO	Listening on 127.0.0.1:43013
+1604438208729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwInzw"
+1604438212460	Marionette	INFO	Listening on port 40311
+1604438212549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604438279211	geckodriver	INFO	Listening on 127.0.0.1:42313
+1604438279218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVfRW0h"
+1604438284113	Marionette	INFO	Listening on port 35573
+1604438284142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604438321628	Marionette	INFO	Stopped listening on port 35573
+1604438321667	Marionette	INFO	Stopped listening on port 40311
+1604438363822	geckodriver	INFO	Listening on 127.0.0.1:54699
+1604438363828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQsRhkn"
+1604438368518	Marionette	INFO	Listening on port 44169
+1604438368549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604438420474	Marionette	INFO	Stopped listening on port 44169
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604438420738	geckodriver	INFO	Listening on 127.0.0.1:53289
+1604438420746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5C3xIv"
+1604438424616	Marionette	INFO	Listening on port 44605
+1604438424659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/vendor1~app.79f1f0c430bee0eaa2e3.js, line 52: Script terminated by timeout at:
+eaidjcib/e.exports@https://web.whatsapp.com/vendor1~app.79f1f0c430bee0eaa2e3.js:52:11786
+e@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:1164938
+e/this.write/<@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:1684017
+S/<@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1170207
+K@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1181810
+p@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1168344
+S@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1170184
+e/this.write@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:1683981
+binSend@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:910271
+sendPresenceUpdate/<@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:131155
+K@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1181810
+p@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1168344
+sendPresenceUpdate@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:131006
+Z/<@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1136238
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1151871
+cbgjbaaigi/t.setPresenceAvailable@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:424510
+icbibjcg/t.sendPresenceAvailable@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1208321
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:855986
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:855808
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:459240
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:457665
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:839810
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:838758
+set@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:347428
+value@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:853118
+t/e.windowGainedFocus@https://web.whatsapp.com/app2.eb1856ee6657f5c0a542.js:2:66818
+value/i<@https://web.whatsapp.com/app.f4927c69ac82921514e2.js:1:1060632
+
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604438642660	geckodriver	INFO	Listening on 127.0.0.1:41211
+1604438642668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileilk9lB"
+1604438646487	Marionette	INFO	Listening on port 39643
+1604438646581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604438748093	geckodriver	INFO	Listening on 127.0.0.1:57661
+1604438748101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesIVKPs"
+1604438751958	Marionette	INFO	Listening on port 33011
+1604438752013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604438800666	Marionette	INFO	Stopped listening on port 33011
+1604438801935	Marionette	INFO	Stopped listening on port 39643
+1604438805772	Marionette	INFO	Stopped listening on port 44605
+1604438844242	geckodriver	INFO	Listening on 127.0.0.1:51169
+1604438844248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileptzS9u"
+1604438848255	Marionette	INFO	Listening on port 34853
+1604438848269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604439012961	Marionette	INFO	Stopped listening on port 34853
+1604439143710	geckodriver	INFO	Listening on 127.0.0.1:36191
+1604439143718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFnVA1t"
+1604439147609	Marionette	INFO	Listening on port 41549
+1604439147635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604439324350	geckodriver	INFO	Listening on 127.0.0.1:57467
+1604439324359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRjXfWL"
+1604439328305	Marionette	INFO	Listening on port 42657
+1604439328374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604439403724	geckodriver	INFO	Listening on 127.0.0.1:42371
+1604439403734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileebfJr2"
+1604439407941	Marionette	INFO	Listening on port 34065
+1604439407959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604439469977	Marionette	INFO	Stopped listening on port 41549
+1604439471761	Marionette	INFO	Stopped listening on port 42657
+1604439473881	Marionette	INFO	Stopped listening on port 34065
+1604439479355	geckodriver	INFO	Listening on 127.0.0.1:56085
+1604439479366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew4IxVz"
+1604439483176	Marionette	INFO	Listening on port 42525
+1604439483185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604439557128	Marionette	INFO	Stopped listening on port 42525
+1604439561561	geckodriver	INFO	Listening on 127.0.0.1:47305
+1604439561568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXXpMVP"
+1604439565187	Marionette	INFO	Listening on port 33845
+1604439565285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604439678542	geckodriver	INFO	Listening on 127.0.0.1:39849
+1604439678551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTCtFkU"
+1604439682619	Marionette	INFO	Listening on port 38065
+1604439682673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604439831762	Marionette	INFO	Stopped listening on port 33845
+1604440504997	geckodriver	INFO	Listening on 127.0.0.1:60359
+1604440505005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6vg57d"
+1604440509558	Marionette	INFO	Listening on port 45859
+1604440509626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604440667529	Marionette	INFO	Stopped listening on port 38065
+1604440668997	Marionette	INFO	Stopped listening on port 45859
+1604440723780	geckodriver	INFO	Listening on 127.0.0.1:34483
+1604440723790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8wTFQB"
+1604440727653	Marionette	INFO	Listening on port 43867
+1604440727706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://web.whatsapp.com/vendor1~app.79f1f0c430bee0eaa2e3.js, line 33: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604440730412	Marionette	INFO	Stopped listening on port 43867
+1604440799723	geckodriver	INFO	Listening on 127.0.0.1:59883
+1604440799733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqNEtp2"
+1604440803532	Marionette	INFO	Listening on port 33437
+1604440803561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604441036608	geckodriver	INFO	Listening on 127.0.0.1:35103
+1604441036617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEoP2Ac"
+1604441040449	Marionette	INFO	Listening on port 39357
+1604441040533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604441276707	geckodriver	INFO	Listening on 127.0.0.1:48485
+1604441276717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU7Jpxe"
+1604441280947	Marionette	INFO	Listening on port 33719
+1604441281035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604441282055	Marionette	INFO	Stopped listening on port 33437
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604441284100	Marionette	INFO	Stopped listening on port 39357
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604443551183	geckodriver	INFO	Listening on 127.0.0.1:45701
+1604443551190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7puTGW"
+1604443554728	Marionette	INFO	Listening on port 45567
+1604443554801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604443714867	geckodriver	INFO	Listening on 127.0.0.1:38065
+1604443714875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegYLHI1"
+1604443718732	Marionette	INFO	Listening on port 39965
+1604443718788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604443854116	geckodriver	INFO	Listening on 127.0.0.1:37093
+1604443854124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh64jhZ"
+1604443857902	Marionette	INFO	Listening on port 45859
+1604443857967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1: unreachable code after return statement
+1604444473675	Marionette	INFO	Stopped listening on port 33719
+1604444474865	Marionette	INFO	Stopped listening on port 45567
+1604444476433	Marionette	INFO	Stopped listening on port 39965
+1604444478013	Marionette	INFO	Stopped listening on port 45859

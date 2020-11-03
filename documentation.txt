@@ -1,6 +1,0 @@
-Name or Group or file(s) Containing Recipient(s)
-=================================================
-This args provides target to send message(s) or attachment(s).
-
-Required: True
-
