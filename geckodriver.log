@@ -1417,3 +1417,9 @@ JavaScript warning: https://web.whatsapp.com/app.f4927c69ac82921514e2.js, line 1
 1604444474865	Marionette	INFO	Stopped listening on port 45567
 1604444476433	Marionette	INFO	Stopped listening on port 39965
 1604444478013	Marionette	INFO	Stopped listening on port 45859
+1604482128251	geckodriver	INFO	Listening on 127.0.0.1:58539
+1604482129254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej2Cs9j"
+1604482132578	Marionette	INFO	Listening on port 44709
+1604482132669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1604482136556	Marionette	INFO	Stopped listening on port 44709
