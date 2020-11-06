@@ -1,4 +1,4 @@
-# Whatsapp bulk Message & files sender
+# Whatsapp bulk Messages & files sender
 
 Whatsapp bot that can send files and messags to recipients.
 ----------------------------------------------------------------
